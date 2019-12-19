@@ -234,8 +234,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: 132}
-  m_SizeDelta: {x: 229.6, y: 51.1}
+  m_AnchoredPosition: {x: 31.999977, y: 197.59998}
+  m_SizeDelta: {x: 357.4, y: 70.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &273602857
 MonoBehaviour:
@@ -499,7 +499,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mon Fois et mon glaive
+  m_Text: Mon Foie est mon glaive
 --- !u!222 &747691296
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -542,8 +542,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 1}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 35.4, y: 41.9}
+  m_SizeDelta: {x: 116.8, y: 112}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &977249169
 MonoBehaviour:
@@ -718,8 +718,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 28, y: 256.3}
-  m_SizeDelta: {x: 229.6, y: 63.3}
+  m_AnchoredPosition: {x: 104.1, y: 336.2}
+  m_SizeDelta: {x: 323.2, y: 107.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1181745649
 MonoBehaviour:
@@ -798,8 +798,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -50}
-  m_SizeDelta: {x: 229.6, y: 51.1}
+  m_AnchoredPosition: {x: 31.999977, y: -52.600025}
+  m_SizeDelta: {x: 357.4, y: 70.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1218345260
 MonoBehaviour:
@@ -972,7 +972,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: "Bi\xE8re Pong"
 --- !u!222 &1427544532
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1167,8 +1167,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: 40.6}
-  m_SizeDelta: {x: 229.6, y: 48.29}
+  m_AnchoredPosition: {x: 32, y: 72}
+  m_SizeDelta: {x: 357.4, y: 66.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2017378351
 MonoBehaviour:
