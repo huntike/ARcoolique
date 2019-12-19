@@ -10,6 +10,7 @@ public class menu : MonoBehaviour
   
     public void sceneLoader()
     {
+        Debug.Log("sceneName to load: " + SceneName);
         SceneManager.LoadScene(SceneName);
     }
 
