@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 11622a32b3b97e240950c00993418498
   - enabled: 1
-    path: Assets/Scenes/Dice.unity
-    guid: d4cc50de845c86a42854bd25a25184df
-  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 40c5aeb0bff9a49839a6aac447c60a37
   - enabled: 1
