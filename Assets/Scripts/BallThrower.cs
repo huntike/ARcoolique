@@ -14,6 +14,7 @@ public class BallThrower : MonoBehaviour
     public Vector3 throwForce = new Vector3(0f,1f,1f);
     private Vector2 touchBegan;
     private Vector2 touchEnd;
+    public menu menu;
 
 
     void Awake()
@@ -127,6 +128,11 @@ public class BallThrower : MonoBehaviour
                     }
 
                 }
+            }
+
+            if (Input.touchCount == 3)
+            {
+                this.menu.sceneLoader();
             }
         }
     }
